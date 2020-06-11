@@ -2,8 +2,19 @@
 * {
     box-sizing:border-box;
 }
+
+li{
+
+}
+
+
+
 body{
     font-family: roboto 'roboto';
+}
+
+main{
+  
 }
 
 .header{
